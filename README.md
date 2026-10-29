@@ -45,6 +45,9 @@ Maintained by [Backblaze](https://www.backblaze.com).
 - **[Alors On Danse Video Maker](https://alorsondansevideo.com)** — Independent AI: two photos → 13s studio dance video (Paid; not affiliated with Stromae/TikTok).
 - **[Bad Times AI](https://badtimesai.dev)** — Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99).
 - **[I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com)** — Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99).
+- **[KDA Firestarter AI Dance](https://kdafirestarterai.dev)** — Independent unofficial AI dance effect: one photo → 13s widescreen solo dance video (Paid from $7.99; not affiliated with Riot/KDA).
+- **[A2O LITE NEON AI Dance](https://a2oliteai.org)** — Independent unofficial AI dance: two photos → neon dual dance video (Paid from $7.99).
+- **[dime dime baby ai](https://dimedimebabyai.dev)** — Independent unofficial AI dance effect: one photo → short dance video (Paid from $7.99).
 - **[Kling AI](https://klingai.com)** – Text-to-video and image-to-video from Kuaishou. Up to 30s clips at 1080p/30fps. Async task-based API. Also on fal.ai. [Docs](https://app.klingai.com/global/dev/document-api/quickStart/productIntroduction/overview)
 - **[Krea](https://www.krea.ai/features/api)** – Unified API for 10+ video models (Veo 3/3.1, Sora 2, Kling 2.6, Wan 2.5, Hailuo 2.3, Runway Gen-4.5, Ray 2, Seedance Pro). Job-based with webhooks. OpenAPI spec, Python/Node/Go examples. [Docs](https://docs.krea.ai) | SDK: Python, Node, Go
 - **[Leonardo.AI (Motion API)](https://leonardo.ai/api)** – Text-to-video and image-to-video REST API. Supports Motion 2.0, Veo 3, Veo 3 Fast, Kling 2.1/2.5 models. 480p–1080p, 4–8s clips, frame interpolation, style control. [Docs](https://docs.leonardo.ai/reference/createtexttovideogeneration)
